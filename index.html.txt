@@ -1,3 +1,5 @@
 hello
 i am ola
 edited in branch 1
+now edited in master
+edited in branch 2
